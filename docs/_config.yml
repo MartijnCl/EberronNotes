@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 
-logo: "/assets/images/d20.png"
+logo: "d20.png"
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
